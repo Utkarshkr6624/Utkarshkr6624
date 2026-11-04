@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/utkarsh-choudhary-116a9736a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:utkarsh6624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=utkarsh6624.codes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://pixel-rush-delta.vercel.app/"><img src="https://img.shields.io/badge/PixelRush-Play%20now-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Utkarshkr6624&style=for-the-badge&color=0e75b6&label=Profile+views" />
 </p>
@@ -19,7 +19,7 @@
 - 🧠 I build and train my own ML models, and I also make the apps that use them
 - ☕ I mostly write Java. Python for ML and backends, TypeScript for frontends
 - 🛠️ Most of my projects started because something in college annoyed me (grades, PDFs, planning) and I wanted my own tool for it
-- 💼 Open to internships and freelance work of any kind: ML models, AI features, web apps, backends. Mail me at utkarsh6624@gmail.com
+- 💼 Open to internships and freelance work of any kind: ML models, AI features, web apps, backends. Mail me at [utkarsh6624.codes@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=utkarsh6624.codes@gmail.com)
 
 ### Skills
 
