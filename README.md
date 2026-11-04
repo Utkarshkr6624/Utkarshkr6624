@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Utkarsh%20Kumar%20Choudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Bachelor%20of%20Computer%20Applications%20in%20AI%20and%20ML%20at%20VIT-AP&descAlignY=56&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Utkarsh%20Kumar%20Choudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=B.Tech%20in%20AI%20and%20ML%20at%20VIT-AP%20University&descAlignY=56&descSize=15" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Utkarsh;BCA+student%2C+AI+and+ML+specialisation;I+build+and+train+ML+models;I+also+build+full+stack+apps;Open+to+internships+and+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Utkarsh;B.Tech+in+AI+and+ML+at+VIT-AP;I+build+and+train+ML+models;I+also+build+full+stack+apps;Open+to+internships+and+freelance+work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About me
 
-- 🎓 Doing my BCA (Bachelor of Computer Applications) with an AI & ML specialisation at **VIT-AP University**
+- 🎓 Doing my B.Tech in AI & ML at **VIT-AP University**
 - 🧠 I build and train my own ML models, and I also make the apps that use them
 - ☕ I mostly write Java. Python for ML and backends, TypeScript for frontends
 - 🛠️ Most of my projects started because something in college annoyed me (grades, PDFs, planning) and I wanted my own tool for it
